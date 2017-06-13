@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\ori-2017-siit-master (3)\ori-2017-siit-master\vezbe\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\bin\Debug\data\skincancer.csv
+C:\Users\Student\Desktop\ori-2017-siit-master (3)\ori-2017-siit-master\vezbe\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\bin\Debug\MasinskoUcenje.exe
+C:\Users\Student\Desktop\ori-2017-siit-master (3)\ori-2017-siit-master\vezbe\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\bin\Debug\MasinskoUcenje.pdb
+C:\Users\Student\Desktop\ori-2017-siit-master (3)\ori-2017-siit-master\vezbe\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\ori-2017-siit-master (3)\ori-2017-siit-master\vezbe\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\obj\x86\Debug\MasinskoUcenje.exe
+C:\Users\Student\Desktop\ori-2017-siit-master (3)\ori-2017-siit-master\vezbe\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\obj\x86\Debug\MasinskoUcenje.pdb
+C:\Users\gogec\Desktop\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\obj\x86\Debug\MasinskoUcenje.exe
+C:\Users\gogec\Desktop\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\obj\x86\Debug\MasinskoUcenje.pdb
+C:\Users\gogec\Desktop\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\bin\Debug\data\skincancer.csv
+C:\Users\gogec\Desktop\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\bin\Debug\MasinskoUcenje.exe
+C:\Users\gogec\Desktop\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\bin\Debug\MasinskoUcenje.pdb
+C:\Users\gogec\Desktop\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\obj\x86\Debug\MasinskoUcenje.csprojResolveAssemblyReference.cache
+C:\Users\gogec\Desktop\v7 - Graf izracunavanja -VNM foobar\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\obj\x86\Debug\MasinskoUcenje.exe
+C:\Users\gogec\Desktop\v7 - Graf izracunavanja -VNM foobar\v5-Masinsko ucenje\MasinskoUcenje\MasinskoUcenje\obj\x86\Debug\MasinskoUcenje.pdb

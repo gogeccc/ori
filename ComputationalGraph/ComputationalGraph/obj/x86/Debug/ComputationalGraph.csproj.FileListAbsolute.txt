@@ -5,3 +5,6 @@ C:\Users\Student\Desktop\v7 - Graf izracunavanja -VNM foobar\ComputationalGraph\
 C:\Users\Student\Desktop\v7 - Graf izracunavanja -VNM foobar\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
 C:\Users\gogec\Desktop\v7 - Graf izracunavanja -VNM foobar\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.exe
 C:\Users\gogec\Desktop\v7 - Graf izracunavanja -VNM foobar\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.pdb
+C:\Users\gogec\Desktop\v7 - Graf izracunavanja -VNM foobar\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.exe
+C:\Users\gogec\Desktop\v7 - Graf izracunavanja -VNM foobar\ComputationalGraph\ComputationalGraph\bin\Debug\ComputationalGraph.pdb
+C:\Users\gogec\Desktop\v7 - Graf izracunavanja -VNM foobar\ComputationalGraph\ComputationalGraph\obj\x86\Debug\ComputationalGraph.csprojResolveAssemblyReference.cache
